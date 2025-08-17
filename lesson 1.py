@@ -1,8 +1,1 @@
-multipl = 1
-for i in range(1, 11):
-    #если число четное
-    if i % 2 == 0:
-    #пропускаем интерацию
-     continue
-    multipl *= i
-    print(multipl)
+scratch_1.py
